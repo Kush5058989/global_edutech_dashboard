@@ -1,0 +1,113 @@
+S.No,Company Name,Focus Area,Subjects Offered,Origin Year,Revenue 2021,Revenue 2022,Revenue 2023,Investors (Major),Amount Invested (Approx),Website,LinkedIn
+1,BYJU’S,"K-12, Competitive Exams","Math, Science, English, Coding, etc.",2011,$800M,$1.2B,$1.5B,"Sequoia, Tiger Global, General Atlantic, Chan Zuckerberg, Silver Lake, BlackRock, Qatar Inv. Auth",$5.5B+,byjus.com,linkedin.com/company/byju-s
+2,Unacademy,"Competitive Exams, K-12","Math, Science, English, UPSC, CAT, etc.",2015,$100M,$150M,$200M,"SoftBank, Sequoia, Tiger Global, General Atlantic, Facebook",$800M+,unacademy.com,linkedin.com/company/unacademy
+3,Vedantu,"K-12, JEE/NEET","Math, Physics, Chemistry, Biology, English, Coding",2014,$50M,$90M,$120M,"Tiger Global, WestBridge, GGV Capital, Accel, Omidyar Network, Kedaara Capital, Peak XV Partners",$200M+,vedantu.com,linkedin.com/company/vedantu
+4,UpGrad,"Higher Ed, Upskilling","Data Science, AI, MBA, Law, Tech, Finance",2015,$150M,$250M,$350M,"Temasek, IFC, IIFL, Unilazer Ventures, James Murdoch's Lupa Systems, ETS Global, Bodhi Tree",$300M+,upgrad.com,linkedin.com/company/upgrade-education
+5,Toppr,"K-12, JEE/NEET","Math, Science, English, Social Studies, Coding",2013,$40M,$60M,$80M,"SAIF Partners, Helion, Eight Roads, Kaizen PE",$100M+,toppr.com,linkedin.com/company/toppr-com
+6,WhiteHat Jr,Kids Coding,"Programming, AI, Game Development",2018,$50M,$70M,$100M,Acquired by BYJU’S (2020),$300M (acquisition),whitehatjr.com,linkedin.com/company/whitehat-jr
+7,Simplilearn,Professional Upskilling,"Cyber Security, Cloud, Digital Marketing, Data Science",2010,$90M,$130M,$180M,"Blackstone, Kalaari Capital, Helion Ventures",$100M+,simplilearn.com,linkedin.com/company/simplilearn
+8,Eruditus,Executive Education,"MBA, Leadership, Business Analytics",2010,$150M,$220M,$300M,"Accel, SoftBank, Chan Zuckerberg, Prosus, Sequoia",$800M+,eruditus.com,linkedin.com/company/eruditus-executive-education
+9,Cuemath,K-12 Math,"Math, Mental Ability, Coding",2013,$30M,$50M,$70M,"Lightstone, Alpha Wave, Sequoia, Google",$100M+,cuemath.com,linkedin.com/company/cuemath
+10,Great Learning,"Higher Ed, Certifications","AI, Data Science, Business, Software Development",2013,$100M,$150M,$200M,Acquired by BYJU’S (2021),$600M (acquisition),greatlearning.in,linkedin.com/company/great-learning
+11,Extramarks,"K-12, CBSE/ICSE","Math, Science, Social Science, English, Hindi",2007,$50M,$70M,$90M,"Gaja Capital, Reliance Industries",$50M+,extramarks.com,linkedin.com/company/extramarks-education
+12,Embibe,"JEE/NEET, K-12","Physics, Chemistry, Biology, Math, AI-based Learning",2012,$30M,$45M,$60M,"Reliance Industries, Kalaari Capital, Lightbox Ventures",$180M+,embibe.com,linkedin.com/company/embibe
+13,Meritnation,"K-12, CBSE/ICSE","Math, Science, English, Social Studies, Hindi",2008,$30M,$40M,$50M,Info Edge India,$20M+,meritnation.com,linkedin.com/company/meritnation-com
+14,Doubtnut,"K-12, JEE/NEET","Math, Science, Video Solutions in Hindi/English",2016,$20M,$30M,$40M,"Tencent, Sequoia, Omidyar Network, WaterBridge",$50M+,doubtnut.com,linkedin.com/company/doubtnut
+15,Classplus,"Teacher Tools, Test Prep","NEET, JEE, UPSC, State Exams",2018,$25M,$50M,$75M,"Tiger Global, RTP Global, Blume Ventures",$160M+,classplusapp.com,linkedin.com/company/classplus
+16,Testbook,"Govt. Exams, Banking","SSC, Banking, Railways, GATE, UPSC",2014,$25M,$40M,$55M,"Iron Pillar, Matrix Partners, Better Capital",$15M+,testbook.com,linkedin.com/company/testbook-com
+17,Adda247,"Govt. Jobs, Banking","SSC, Banking, Railways, Teaching Exams",2010,$30M,$45M,$65M,"WestBridge, Info Edge, Asha Impact, STL",$35M+,adda247.com,linkedin.com/company/adda247
+18,Gradeup,Competitive Exams,"GATE, SSC, Banking, Railways, UPSC",2015,$15M,$25M,$35M,Times Internet,$10M+,byjusexamprep.com,linkedin.com/company/byjus-exam-prep
+19,Oliveboard,"Banking, Govt. Exams","IBPS, SBI, RBI, SSC, Railways",2013,$10M,$15M,$20M,"IndiaQuotient, IAN Fund",$5M+,oliveboard.in,linkedin.com/company/oliveboard
+20,Lido Learning,"K-12, CBSE/ICSE","Math, Science, English, Coding",2019,$12M,$18M,$25M,"Picus Capital, BAce Capital, RTP Global, Ant Financial (Alibaba)",$24M+,N/A (Defunct),linkedin.com/company/lido-learning
+21,PlanetSpark,Kids’ Communication Skills,"English Speaking, Creative Writing, Public Speaking",2016,$7M,$10M,$15M,"Prime Venture Partners, AngelList India, Clutch Schools",$13.5M+,planetspark.in,linkedin.com/company/planetspark
+22,Codingal,Kids Coding,"Python, Scratch, App Development, Game Design",2020,$5M,$8M,$12M,"Rebright Partners, BlackSoil, Java Capital",$1.6M+,codingal.com,linkedin.com/company/codingal
+23,Camp K12,Kids Tech & Coding,"VR, AI, 3D Design, Game Development",2020,$3M,$6M,$10M,"Matrix Partners India, SAIF Partners",$16M+,campk12.com,linkedin.com/company/campk12
+24,Scaler Academy,Tech Upskilling,"Data Science, Full-Stack Development, AI/ML",2019,$20M,$35M,$50M,"Sequoia Capital India, Lightrock India",$76.5M+,scaler.com,linkedin.com/company/scaler
+25,InterviewBit,Coding Interviews,"DSA, System Design, Competitive Programming",2015,$12M,$20M,$30M,"Sequoia Capital India, Tiger Global",N/A,interviewbit.com,linkedin.com/company/interviewbit
+26,PrepInsta,"Coding, Placements","DSA, AI, Cloud, Aptitude, Interview Prep",2016,$3M,$5M,$8M,"MapmyIndia, LetsVenture",$0.5M+,prepinsta.com,linkedin.com/company/prepinsta
+27,Newton School,Coding Bootcamps,"Full-Stack Dev, DSA, Blockchain",2019,$4M,$8M,$12M,"Nexus Venture Partners, RTP Global, Prophetic Ventures",$30M+,newtonschool.co,linkedin.com/company/newton-school
+28,Masai School,"Coding, Job Guarantee","Web Dev, Data Science, Backend",2019,$6M,$10M,$15M,"Omidyar Network India, Unitus Ventures, India Quotient",$18M+,masaischool.com,linkedin.com/company/masaischool
+29,Pesto Tech,Remote Tech Jobs,"Full-Stack, DevOps, Product Management",2017,$3M,$6M,$9M,"500 Startups, BEENEXT",$7M+,pesto.tech,linkedin.com/company/pesto-tech
+30,AlmaBetter,"Data Science, AI","ML, Python, SQL, Big Data",2020,$2M,$4M,$7M,"Kalaari Capital, Blume Ventures, WaterBridge Ventures",$2.7M+,almabetter.com,linkedin.com/company/almabetter
+31,Coding Ninjas,"Coding, Placements","C++, Java, Python, Web Dev",2016,$8M,$14M,$20M,Info Edge,$6.5M+,codingninjas.com,linkedin.com/company/coding-ninjas-india
+32,GUVI,Vernacular Coding,"Tamil, Hindi, Telugu Coding (Python, AI)",2014,$2M,$4M,$6M,"Gray Matters Capital, Michael & Susan Dell Foundation",$1.8M+,guvi.in,linkedin.com/company/guvi
+33,Imarticus Learning,"Finance, Analytics","Investment Banking, Data Science, MBA",2012,$7M,$12M,$18M,"Mayfield India, Kae Capital",$3M+,imarticus.org,linkedin.com/company/imarticus-learning
+34,Jigsaw Academy,"Analytics, AI","Data Science, Business Analytics, R, Python",2011,$5M,$9M,$14M,Manipal Education and Medical Group (MEMG),N/A,jigsawacademy.com,linkedin.com/company/jigsaw-academy
+35,Edureka,IT Certifications,"Cloud, DevOps, Cybersecurity, Big Data",2011,$10M,$18M,$25M,"Bertelsmann India Investments, Times Internet",N/A,edureka.co,linkedin.com/company/edureka
+36,Intellipaat,"IT, Cloud, AI","AWS, Azure, Python, Blockchain",2011,$6M,$11M,$16M,"Sequoia Capital India, WaterBridge Ventures",N/A,intellipaat.com,linkedin.com/company/intellipaat
+37,AcadBoost,Data Science,"Python, Tableau, Power BI",2018,$1.5M,$3M,$5M,Undisclosed Angel Investors,N/A,acadboost.com,linkedin.com/company/acadboost
+38,INSAID,"AI, Data Science","ML, Deep Learning, NLP",2018,$1M,$2.5M,$4M,"SucSEED Indovation Fund, Mantra Ventures",$0.5M+,insaid.co,linkedin.com/company/insaid
+39,IvyProSchool,"Analytics, MBA","Business Analytics, Digital Marketing",2017,$1M,$2M,$3M,Undisclosed Angel Investors,N/A,ivyproschool.com,linkedin.com/company/ivy-professional-school
+40,UpSkill Campus,"IT, Soft Skills","Java, Python, Communication Skills",2019,$0.6M,$1.2M,$2M,Undisclosed Angel Investors,N/A,upskillcampus.com,linkedin.com/company/upskill-campus
+41,EduBridge,"Skilling, Placements","Retail, BFSI, Healthcare, Logistics",2009,$4M,$7M,$10M,"Acumen Fund, Michael & Susan Dell Foundation",$5M+,edubridgeindia.com,linkedin.com/company/edubridge-learning-pvt-ltd
+42,NxtWave,"Coding, Placements","Full-Stack, AI, Cloud Computing",2020,$2M,$5M,$9M,Greater Pacific Capital,$33M+,ccbp.in,linkedin.com/company/nxtwave
+43,Sunstone Eduversity,"MBA, BBA","Business Management, Data Science, Finance",2019,$4M,$8M,$12M,"WestBridge Capital, Saama Capital",$33.5M+,sunstone.in,linkedin.com/company/sunstone-eduversity
+44,TimesPro,Professional Certifications,"Banking, Finance, Digital Marketing",2013,$9M,$15M,$22M,"Bennett, Coleman and Co. Ltd. (The Times Group)",N/A,timespro.com,linkedin.com/company/timespro
+45,Hughes Global,Corporate Training,"Leadership, IT, Soft Skills",2001,$18M,$25M,$30M,Apollo Global Management,N/A,hugheseducation.com,linkedin.com/company/hughes-global-education
+46,Manipal ProLearn,Upskilling,"Digital Marketing, Data Science, Cybersecurity",2016,$6M,$10M,$14M,Manipal Education and Medical Group (MEMG),N/A,manipalprolearn.com,linkedin.com/company/manipal-prolearn
+47,TalentSprint,"Tech, Finance","AI, FinTech, Cybersecurity",2016,$4M,$7M,$11M,"Nexus Venture Partners, Bertelsmann India Investments",$5M+,talentsprint.com,linkedin.com/company/talentsprint
+48,Edyst,"Coding, Placements","Python, Java, Aptitude",2018,$1.5M,$3M,$5M,Y Combinator,$0.2M+,edyst.com,linkedin.com/company/edyst
+49,Skill-Lync,Engineering Courses,"Automotive, Mechanical, EV, CAD",2018,$2.5M,$5M,$8M,"Iron Pillar, Binny Bansal",$17.5M+,skill-lync.com,linkedin.com/company/skill-lync
+50,Crio.Do,Project-Based Learning,"Full-Stack, Backend, System Design",2019,$1M,$2.5M,$4M,"021 Capital, Matrix Partners India",$4M+,crio.do,linkedin.com/company/crio-do
+51,Geekster,"Coding, Placements","DSA, Full-Stack, Interview Prep",2020,$1.5M,$3.5M,$6M,"Inflection Point Ventures, Soonicorn Ventures, First Port Capital, Mynavi, IIMA Ventures, GSV",$1.3M+,geekster.in,linkedin.com/company/geekster
+52,Pepcoding,"Coding, Placements","Java, Web Dev, Competitive Programming",2017,$2M,$4M,$7M,"Titan Capital, Better Capital",$1M+,pepcoding.com,linkedin.com/company/pepcoding
+53,CodeChef,Competitive Coding,"DSA, CP, Interview Prep",2009,$1.5M,$3M,$5M,Directi (Now Zeta),N/A,codechef.com,linkedin.com/company/codechef
+54,CodeForces,Competitive Coding,"Algorithms, Math, Programming Contests",2010,$1M,$2.5M,$4M,"Telegram Open Network (TON) (Likely strategic, not purely investment)",N/A,codeforces.com,linkedin.com/company/codeforces
+55,Unstop,"Competitions, Hackathons","Coding, MBA, Design, Marketing",2015,$1M,$2M,$3M,"Info Edge Ventures, Axilor Ventures",$5M+,unstop.com,linkedin.com/company/unstop
+56,Chegg India,"Homework Help, Tutoring","Math, Science, Engineering, Business",2006,$30M,$40M,$50M,"Chegg, Inc. (Publicly Traded)",N/A,cheggindia.com,linkedin.com/company/chegg-inc-
+57,Vedantu Superkids,Early Learning (Age 3-8),"Phonics, Storytelling, Logical Reasoning",2021,$5M,$10M,$15M,Part of Vedantu (see row 3),N/A,vedantu.com/superkids,linkedin.com/company/vedantu
+58,Kyt,Extracurricular,"Music, Dance, Arts, Sports",2018,$2M,$5M,$8M,"Alpha Wave Global, Sequoia Capital India",$7.5M+,kyt.academy,linkedin.com/company/kytschools
+59,FrontRow,Creative Arts,"Singing, Photography, Comedy, Writing",2020,$1.5M,$3.5M,$6M,"Eight Roads Ventures, GSV Ventures, Lightspeed, Angel List, Sequoia Capital, KA Enterprises, Anycast Technology, Ashish Gupta",$17M+,frontrow.co.in,linkedin.com/company/frontrowin
+60,Uable,Kids' Life Skills,"Critical Thinking, Leadership, Financial Literacy",2020,$1M,$2M,$4M,"3one4 Capital, JAFCO Asia",$8.5M+,uable.com,linkedin.com/company/uable
+61,Kiddopia,Preschool Learning,"ABCs, Numbers, Puzzles, Creativity",2018,$4M,$7M,$10M,"Info Edge Ventures, KB Global",N/A,kiddopia.com,linkedin.com/company/kiddopia
+62,Kutuki,Early Childhood (Age 2-6),"Stories, Rhymes, Interactive Learning",2019,$1.5M,$3M,$5M,Orios Venture Partners,$2.2M+,kutuki.in,linkedin.com/company/kutuki
+63,Flintobox,Activity-Based Learning,"STEM, Art, Geography, Science Kits",2013,$5M,$8M,$12M,"Lightbox Ventures, GSF Accelerator",$7.2M+,flintobox.com,linkedin.com/company/flintobox
+64,Magic Crate,Subscription Learning,"Science Experiments, DIY Kits",2016,$1M,$2M,$3M,"Dream Incubator, Fireside Ventures",$1.5M+,magiccrate.in,linkedin.com/company/magic-crate
+65,Brainly India,Peer Learning,"Math, Science, Social Studies Q&A",2010,$6M,$10M,$15M,"Naspers, General Catalyst, Learn Capital, Prosus, Runa Capital, Accor, Thélem insurance",$80M+,brainly.in,linkedin.com/company/brainly
+66,Quizizz,Gamified Learning,Quizzes for Schools (All Subjects),2015,$8M,$14M,$20M,"Owl Ventures, SoftBank Vision Fund 2",$31.5M+,quizizz.com,linkedin.com/company/quizizz
+67,Kahoot! India,Interactive Quizzes,Classroom Engagement Tools,2013,$10M,$18M,$25M,Kahoot! ASA (Publicly Traded),N/A,kahoot.com,linkedin.com/company/kahoot
+68,Padhaku,Vernacular Learning,"Hindi, Marathi, Tamil Medium (Science, Math)",2017,$1M,$2.5M,$4M,Undisclosed Angel Investors,N/A,padhaku.com,linkedin.com/company/padhaku
+69,Eupheus Learning,School Curriculum,"CBSE, ICSE, STEM, Coding",2017,$3M,$6M,$9M,"Lightrock India, Think Investments, Sixth Sense Ventures, Trifecta Capital, Al Rayan Holding Company, Lighthouse Canton",$14M+,eupheus.in,linkedin.com/company/eupheus-learning
+70,Next Education,K-12 Digital Content,"Smart Classes, VR Labs, Coding",2007,$7M,$12M,$18M,"Ascent Capital, Navneet Education",$10M+,nexteducation.in,linkedin.com/company/next-education-india-pvt-ltd
+71,XSEED Education,K-12 Pedagogy,"Activity-Based Learning (Math, Science)",2008,$6M,$10M,$15M,Navneet Education,N/A,xseededucation.com,linkedin.com/company/xseed-education
+72,ConveGenius,Rural EdTech,"Vernacular Content, Govt. School Partnerships",2013,$2M,$4M,$7M,"UBS, Michael & Susan Dell Foundation, BAce Capital, Heritas Capital Management, Benori Ventures, Mount Judi Ventures, Searce, Pankaj Grover",$7M+,convegenius.com,linkedin.com/company/convegenius
+73,iDream Education,Rural Digital Learning,"Hindi, Telugu, Marathi Medium Content",2015,$1.5M,$3M,$5M,"Michael & Susan Dell Foundation, Gray Matters Capital",$1.5M+,idreameducation.org,linkedin.com/company/idream-education
+74,KeyTalks,Language Learning,"English, French, German, Spanish",2019,$0.8M,$1.5M,$3M,Undisclosed Angel Investors,N/A,keytalks.in,linkedin.com/company/keytalks
+75,Enguru,Spoken English,"English for Jobs, Daily Communication",2015,$2M,$4M,$6M,"Village Capital, Michael & Susan Dell Foundation, Arihant Patni, Bisk Ventures, LetsVenture, Potencia Ventures, Ronnie Screwvala, JioGenNext",$2.5M+,enguruapp.com,linkedin.com/company/enguru
+76,Physics Wallah,"K-12, Competitive Exams","Math, Science, English, Physics, Chemistry",2020,$100M,$150M,$200M,"GSV, Hornbill Capital, WestBridge",$210M+,pw.live,linkedin.com/company/physicswallah
+77,Interval Learning,Online Tutoring,"Various Subjects, Personalized Online Classes",2018,$2M,$3M,$4M,"UAE Angel Investors, UAE-based Angel Investors","$2.5M+, $0.3M+",intervallearning.com,linkedin.com/company/interval-learning
+78,iQuanta,MBA Entrance Prep,"Quantitative Aptitude, Verbal Ability",2017,$1M,$1.5M,$2M,Bootstrapped,N/A,iquanta.in,linkedin.com/company/iquanta
+79,EduGorilla,Test Preparation,"SSC, Banking, Railways, Teaching, State Exams",2016,$5M,$8M,$12M,Undisclosed,"$12.5M+, $2.5M+",edugorilla.com,linkedin.com/company/edugorilla
+80,Infinity Learn,"K-12, Test Prep","Math, Science, English",2020,$3M,$6M,$10M,Aakash Educational Services,$50M+,infinitylearn.com,linkedin.com/company/infinity-learn
+81,GeeksForGeeks,"Coding, CS Education","Data Structures, Algorithms, AI, ML, Python",2015,$8M,$10M,$12M,Bootstrapped,Undisclosed,geeksforgeeks.org,linkedin.com/company/geeksforgeeks
+82,Board Infinity,Career Skilling,"Data Science, Marketing, Finance, Tech",2017,$1M,$2M,$3M,"Ambarish Raghuvanshi, Maheshwer Peri, Bain & Co, Tata Group, Microsoft",$0.32M+,boardinfinity.com,linkedin.com/company/board-infinity
+83,Leverage Edu,Study Abroad,"Admissions, Loans, Accommodation, Counseling",2017,$10M,$15M,$20M,"ETS, Blume Ventures, DSG Consumer Partners, Kaizenvest PE",$70M+,leverageedu.com,linkedin.com/company/leverage-edu
+84,NxtWave,Tech Careers,"Full-Stack, AI, Cloud, Vernacular Tech Courses",2020,$3M,$5M,$9M,"Greater Pacific Capital, Orios Venture Partners",$33M+,ccbp.in,linkedin.com/company/nxtwave
+85,Toddle,Teacher Tools,"Curriculum Planning, Assessments, Collaboration",2019,$5M,$8M,$12M,"Matrix Partners, Beenext, Better Capital",$17M+,toddleapp.com,linkedin.com/company/toddleapp
+86,Suraasa,Teacher Training,"PGCTL, Mentorship, Career Coaching",2018,$1M,$2M,$3M,"Blume Ventures, 9Unicorns, Angel Investors",$7.2M+,suraasa.com,linkedin.com/company/suraasa
+87,Sparkl,1-on-1 Tutoring,Personalized Tutoring Across Subjects,2021,$0.5M,$1M,$2M,Angel Investors,$4M+,sparkl.in,linkedin.com/company/sparkl-learning
+88,Seekho,Microlearning,"Short Videos on Business, Tech, Soft Skills",2020,$0.8M,$1.5M,$2.5M,"Sequoia Capital India, Angel Investors",$8.5M+,seekho.ai,linkedin.com/company/seekho
+89,Leap Scholar,Study Abroad,"IELTS, TOEFL, Visa Counseling, Loans",2019,$15M,$25M,$35M,"Owl Ventures, Jungle Ventures, Sequoia Capital India",$75M+,leapscholar.com,linkedin.com/company/leapscholar
+90,ClassMonitor,Early Learning,"Activity Kits, STEM, Phonics, Numeracy",2016,$1M,$2M,$3M,"Lead Angels, Edupreneur Village, Angel Investors",$2M+,classmonitor.com,linkedin.com/company/classmonitor
+91,Practically,AR/VR Learning,"Science, Math, Simulations, 3D Videos",2018,$5M,$8M,$12M,"YourNest Venture Capital, Exfinity Venture Partners, Siana Capital",$14M+,practically.com,linkedin.com/company/practically
+92,Eduvate,School ERP,"LMS, Assessments, Curriculum Planning",2015,$3M,$5M,$7M,Undisclosed Angel Investors,$1.5M+,eduvate.org,linkedin.com/company/eduvate
+93,iDreamCareer,Career Guidance,"Counseling, Psychometric Tests, College Planning",2013,$2M,$3M,$5M,"Gray Matters Capital, Menterra Venture Advisors, Angel Investors",$2.5M+,idreamcareer.com,linkedin.com/company/idreamcareer-com
+94,KopyKitab,Digital Books,"eBooks, Notes, Test Prep Material",2012,$1M,$2M,$3M,"Info Edge, Angel Investors",$2M+,kopykitab.com,linkedin.com/company/kopykitab
+95,EduRev,Learning App,"CBSE, JEE, NEET, UPSC, Notes, Tests",2017,$1.5M,$2.5M,$4M,"Y Combinator, GSF Accelerator, Angel Investors",$3M+,edurev.in,linkedin.com/company/edurev
+96,Uolo,School Communication,"Parent-Teacher Communication, LMS",2013,$2M,$3M,$5M,"Blume Ventures, Omidyar Network, Angel Investors",$3.5M+,uolo.com,linkedin.com/company/uolo-technology
+97,BitClass,Live Learning,Live Classes Across Various Domains,2020,$1M,$2M,$3M,"Venture Highway, Sequoia Capital India, Angel Investors",$2.5M+,bitclass.live,linkedin.com/company/bitclass
+98,Teachmint,Teacher Tools,"LMS, ERP, Digital Infrastructure for Schools",2020,$3M,$5M,$8M,"Learn Capital, Lightspeed India, Better Capital",$20M+,teachmint.com,linkedin.com/company/teachmint
+99,MindMentor,Skill Development,"Public Speaking, Career Prep",2016,$7M,$9M,$11M,"Matrix Partners, Blume Ventures",$4M,mindmentor.in,linkedin.com/company/mindmentor
+100,PrepMinds,Test Prep,"UPSC, CAT, GATE",2015,$16M,$19M,$23M,"Sequoia India, Accel Partners",$8M,prepminds.com,linkedin.com/company/prepminds
+101,CodeBase,Coding,"Java, C++, Python",2017,$10M,$13M,$16M,"Nexus Ventures, Blume Ventures",$5M,codebase.in,linkedin.com/company/codebase-in
+102,Learnify,EdTech Platform,All Subjects,2014,$18M,$21M,$24M,"Tiger Global, Accel Partners",$9M,learnify.co.in,linkedin.com/company/learnify-india
+103,FutureSkills,Career Training,"ML, AI, Data Science",2018,$12M,$15M,$19M,"SoftBank, Matrix Partners",$6M,futureskillsprime.in,linkedin.com/company/futureskills
+104,SmartEd,K-12 Learning,"Math, English, Science",2015,$22M,$25M,$29M,"Sequoia India, Blume Ventures",$10M,smarted.in,linkedin.com/company/smarted-india
+105,TutorXpress,Online Tutoring,"Science, Math, SST",2019,$8M,$10M,$13M,"Accel Partners, Tiger Global",$4M,tutorxpress.in,linkedin.com/company/tutorxpress
+106,NextGen Learn,Skill Development,"Coding, Analytics",2020,$5M,$8M,$10M,"Nexus Ventures, Sequoia India",$3M,nextgenlearn.in,linkedin.com/company/nextgen-learn
+107,TestAce,Exam Prep,"NEET, UPSC, SSC",2016,$20M,$24M,$28M,"Tiger Global, Accel Partners",$11M,testace.in,linkedin.com/company/testace
+108,EdSpark,Digital Education,"Computer Science, Logic",2017,$12M,$15M,$18M,"Matrix Partners, Blume Ventures",$6M,edspark.co.in,linkedin.com/company/edspark
+109,Skillable,Upskilling,"Data Science, ML, Python",2021,$4M,$6M,$8M,"Accel Partners, Nexus Ventures",$2M,skillable.in,linkedin.com/company/skillable-india
+110,CodersFirst,Coding,"Full Stack, Backend, AI",2015,$18M,$21M,$25M,"Sequoia India, Tiger Global",$9M,codersfirst.com,linkedin.com/company/codersfirst
+111,BrightPath,Career Coaching,"Resume, Communication Skills",2016,$10M,$12M,$15M,"Blume Ventures, Matrix Partners",$5M,brightpath.co.in,linkedin.com/company/brightpath-india
+112,SmartBridge,IT Training,"AWS, DevOps, Cloud",2018,$13M,$16M,$19M,"Accel Partners, SoftBank",$6M,smartbridge.com,linkedin.com/company/smartbridge
